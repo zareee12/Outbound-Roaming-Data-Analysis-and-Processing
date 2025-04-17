@@ -3,9 +3,6 @@
 ## Project Overview
 Proyek ini bertujuan untuk menganalisis dan memproses data roaming operator telekomunikasi. Data diolah untuk mendapatkan wawasan tentang kinerja operator dan negara dalam menyediakan layanan roaming, dengan berbagai metrik yang dianalisis seperti jumlah pengguna aktif, lalu lintas data, tingkat keberhasilan sesi, dan latensi.
 
-## About the Company
-**Neural Technologies Indonesia (NTI)** adalah perusahaan IT yang didirikan pada tahun 2007 dan berfokus pada berbagai industri, termasuk telekomunikasi, layanan kesehatan, perangkat medis, serta minyak dan gas.
-
 ## Features
 - **Analisis Data Mentah**: Memproses dan membersihkan data untuk meningkatkan akurasi.
 - **Penyimpanan dalam Database**: Memasukkan data ke dalam PostgreSQL.

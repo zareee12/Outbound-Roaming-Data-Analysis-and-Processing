@@ -16,7 +16,7 @@ Proyek ini bertujuan untuk menganalisis dan memproses data roaming operator tele
 ## Data Overview
 Terdapat tiga jenis file data harian yang diolah:
 
-<img src="https://github.com/zareee12/Outbound-Roaming-Data-Analysis-and-Processing/blob/main/images/overview.png" alt="Overview" width="450"/>
+<img src="https://github.com/zareee12/Outbound-Roaming-Data-Analysis-and-Processing/blob/main/images/overview.png" alt="Overview" width="650"/>
 
 | Kode | Deskripsi |
 |------|------------------------------------|

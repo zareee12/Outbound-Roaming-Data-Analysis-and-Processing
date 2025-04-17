@@ -42,12 +42,12 @@ dl_retransmitted_packet_rate, ul_retransmitted_packet_rate, internal_latency, ex
 - Menambahkan 4 kolom baru untuk kompatibilitas
 - Menggabungkan file berdasarkan kategori (01, 02, 03)
 
-<img src="https://github.com/zareee12/Outbound-Roaming-Data-Analysis-and-Processing/blob/main/images/preparation.png" alt="preparation" width="450"/>
+<img src="https://github.com/zareee12/Outbound-Roaming-Data-Analysis-and-Processing/blob/main/images/preparation.png" alt="preparation" width="650"/>
 
 ### 2. Insert Data
 Data dimasukkan ke PostgreSQL menggunakan shell scripts dengan tiga tabel:
 
-<img src="https://github.com/zareee12/Outbound-Roaming-Data-Analysis-and-Processing/blob/main/images/insert%20data.png" alt="insert data" width="450"/>
+<img src="https://github.com/zareee12/Outbound-Roaming-Data-Analysis-and-Processing/blob/main/images/insert%20data.png" alt="insert data" width="650"/>
 
 | Tabel | Deskripsi |
 |----------------------------|--------------------------------------------|
@@ -62,7 +62,7 @@ Data dimasukkan ke PostgreSQL menggunakan shell scripts dengan tiga tabel:
 - Menghitung skor berdasarkan formula bobot
 - Mengelompokkan negara berdasarkan benua
 
-<img src="https://github.com/zareee12/Outbound-Roaming-Data-Analysis-and-Processing/blob/main/images/data%20manipulation.png" alt="Data Manipulation" width="450"/>
+<img src="https://github.com/zareee12/Outbound-Roaming-Data-Analysis-and-Processing/blob/main/images/data%20manipulation.png" alt="Data Manipulation" width="850"/>
 
 ### 4. Data Normalization
 - Memecah data menjadi 4 tabel untuk efisiensi:

@@ -95,6 +95,3 @@ Beberapa fungsi utama dalam database PostgreSQL:
 - **Reza Septian Kamajaya** (Project Presenter)
 
 
-## Acknowledgments
-Special thanks to Neural Technologies Indonesia and the Data Engineer Bootcamp team for their support in this project.
-
